@@ -1,0 +1,14 @@
+/* Banner */
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    background-color: rgba(158, 158, 158, 0.38);
+    background-image: url(./Images/Lalo.jpg) ;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin: auto;
+
+
+}
